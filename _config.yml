@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "박형균"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/images2.png"
   bio              : "HAFS 2학년"
   location         : "대한민국,수원"
   email            : "phkhk30@gmail.com"
